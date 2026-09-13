@@ -6,7 +6,7 @@
 
 I build AI systems for industry and science.
 
-Currently at Inspur Group, working on enterprise agents, research automation, and quantum computing.
+Currently at Inspur Group, working on AI infra, enterprise agents, research automation, and quantum computing.
 
 [Email](mailto:zx4612@mail.ustc.edu.cn) · [Work](#selected-work) · [Experience](#experience) · [Research](#research)
 
