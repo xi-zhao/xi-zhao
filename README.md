@@ -1,4 +1,4 @@
-<img align="right" src="assets/portrait.png" width="164" alt="Xi Zhao" />
+<img align="right" src="assets/portrait-hd.png" width="164" alt="Xi Zhao" />
 
 # Xi Zhao
 
