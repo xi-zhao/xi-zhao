@@ -8,7 +8,9 @@ I build AI systems for industry and science.
 
 Currently at Inspur Group, working on AI infra, enterprise agents, research automation, and quantum computing.
 
-[Email](mailto:zx4612@mail.ustc.edu.cn) · [WeChat: AI赛博脑](#wechat-official-account) · [Work](#selected-work) · [Experience](#experience) · [Research](#research)
+[Email](mailto:zx4612@mail.ustc.edu.cn) · WeChat ID: **sincerely1019** · [Official Account: AI赛博脑](#wechat-official-account)
+
+[Work](#selected-work) · [Experience](#experience) · [Research](#research)
 
 <br clear="all" />
 
@@ -85,7 +87,9 @@ PhD in Physics from the University of Science and Technology of China, advised b
 
 Have something interesting in mind? Let's talk.
 
-[zx4612@mail.ustc.edu.cn](mailto:zx4612@mail.ustc.edu.cn) · Beijing, China
+- **Email:** [zx4612@mail.ustc.edu.cn](mailto:zx4612@mail.ustc.edu.cn)
+- **Personal WeChat ID:** sincerely1019
+- **Location:** Beijing, China
 
 ### WeChat Official Account
 
