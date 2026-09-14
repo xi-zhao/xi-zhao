@@ -8,9 +8,7 @@ I build AI systems for industry and science.
 
 Currently at Inspur Group, working on AI infra, enterprise agents, research automation, and quantum computing.
 
-[Email](mailto:zx4612@mail.ustc.edu.cn) · WeChat ID: **sincerely1019** · [Official Account: AI赛博脑](#wechat-official-account)
-
-[Work](#selected-work) · [Experience](#experience) · [Research](#research)
+Email: zx4612@mail.ustc.edu.cn · WeChat ID: **sincerely1019** · Official Account: **AI赛博脑**
 
 <br clear="all" />
 
@@ -87,14 +85,12 @@ PhD in Physics from the University of Science and Technology of China, advised b
 
 Have something interesting in mind? Let's talk.
 
-- **Email:** [zx4612@mail.ustc.edu.cn](mailto:zx4612@mail.ustc.edu.cn)
+- **Email:** zx4612@mail.ustc.edu.cn
 - **Personal WeChat ID:** sincerely1019
 - **Location:** Beijing, China
 
 ### WeChat Official Account
 
-**AI赛博脑** — Scan with WeChat to follow. Click the card to open the full-size QR code.
+**AI赛博脑** — Scan with WeChat to follow.
 
-<a href="https://github.com/xi-zhao/xi-zhao/raw/main/assets/wechat-ai-cyberbrain-qr.png">
-  <img src="assets/wechat-ai-cyberbrain-card.png" width="600" alt="AI赛博脑 WeChat Official Account — scan to follow" />
-</a>
+<img src="assets/wechat-ai-cyberbrain-qr.png" width="215" alt="AI赛博脑 WeChat Official Account QR code" />
