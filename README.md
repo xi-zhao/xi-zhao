@@ -89,4 +89,8 @@ Have something interesting in mind? Let's talk.
 
 ### WeChat Official Account
 
-**AI赛博脑** — Search this name in WeChat to follow my official account.
+**AI赛博脑** — Scan with WeChat to follow. Click the card to open the full-size QR code.
+
+<a href="https://github.com/xi-zhao/xi-zhao/raw/main/assets/wechat-ai-cyberbrain-qr.png">
+  <img src="assets/wechat-ai-cyberbrain-card.png" width="600" alt="AI赛博脑 WeChat Official Account — scan to follow" />
+</a>
